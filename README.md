@@ -138,7 +138,7 @@ Bounds for which the level of available verification is currently at minimal lev
 - [3a](https://teorth.github.io/optimizationproblems/constants/3a.html), [3c](https://teorth.github.io/optimizationproblems/constants/3c.html) **improved lower bounds:** $C_{3a} \geq 1.1740744$ and $C_{3c} \geq 1.67473389$ by S. Griego, 13 May 2026.
 - [84a](https://teorth.github.io/optimizationproblems/constants/84a.html) **improved lower bound (unverified):** $C_{84a} \geq 1.03583*$ by [E. Naslund](https://mathoverflow.net/q/511514), 25 May 2026.
 - [84b](https://teorth.github.io/optimizationproblems/constants/84b.html) **improved upper bound (unverified):** $C_{84b} \leq 1.999281*$ by [I. Althoefer](https://www.erdosproblems.com/forum/thread/52), 28 May 2026.
-- [3c](https://teorth.github.io/optimizationproblems/constants/3c.html) **improved lower bound:** $C_{3c} \geq 1.67473389502$ by usemosaicxyz, 9 Jun 2026.
+- [3c](https://teorth.github.io/optimizationproblems/constants/3c.html) **improved lower bound:** $C_{3c} \geq 1.67473389502$ by usemosaicxyz, 9 Jun 2026. AI-assisted; verified by decimal replay of the rounded certificate.
 
 
 ## Maintainers
